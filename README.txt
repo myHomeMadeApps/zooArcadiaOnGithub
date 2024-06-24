@@ -1,1 +1,0 @@
-Doc descriptive et architecturale pour le projet Arcadia
